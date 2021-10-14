@@ -10,7 +10,7 @@ Man-in-the-middle attacks (ARP spoofing)
 
 Zadatak ove vježbe bio je realizirati *man-in-the-middle* i *denial of service* napad na računala koja koriste istu lokanu mrežu (LAN). Na raspolaganju su nam bila 3 virtualizirana Docker računala od kojih dvije žrtve (*station-1*, *station-2*) i napadač (*evil-station*).
 
-![lab1.png](Sigurnost%20rac%CC%8Cunala%20i%20podataka%20e1ddce640a3d4f4baa0096824bb358e4/lab1.png)
+![lab1](https://user-images.githubusercontent.com/73183552/137374360-419b31a8-5744-4b01-914a-8b6fd78f842d.png)
 
 ***Prikaz korištenih virtualiziranih računala i njihove IP i MAC adrese***
 
